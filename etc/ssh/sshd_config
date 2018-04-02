@@ -1,3 +1,7 @@
+# Keep idle connection alive
+ClientAliveInterval 60
+
+# Use only pubkey to verify login
 PasswordAuthentication no
 ChallengeResponseAuthentication no
 UsePAM no
