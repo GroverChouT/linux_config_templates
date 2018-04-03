@@ -1,5 +1,5 @@
 # Keep idle connection alive
-ClientAliveInterval 60
+ClientAliveInterval 30
 
 # Use only pubkey to verify login
 PasswordAuthentication no
