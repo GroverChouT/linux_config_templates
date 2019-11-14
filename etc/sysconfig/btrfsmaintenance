@@ -1,0 +1,3 @@
+# Manually change those options
+
+BTRFS_BALANCE_PERIOD="none"

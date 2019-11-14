@@ -1,0 +1,5 @@
+STARTMODE=auto
+BOOTPROTO=none
+DEVICE=
+PPPMODE=pppoe
+PROVIDER=provider0

@@ -1,4 +1,0 @@
-auto dummy1
-iface dummy1 inet manual
-    pre-up /sbin/ip link add dummy1 type dummy
-    up /sbin/ip addr add <your_ip> dev dummy1

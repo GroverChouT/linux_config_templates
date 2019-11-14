@@ -1,7 +1,6 @@
-# Keep idle connection alive
-ClientAliveInterval 30
+# Manually change those options
 
-# Use only pubkey to verify login
+PermitRootLogin no
 PasswordAuthentication no
 ChallengeResponseAuthentication no
 UsePAM no
